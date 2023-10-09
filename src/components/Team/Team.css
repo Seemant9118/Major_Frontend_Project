@@ -1,0 +1,11 @@
+.team-heading{
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 35px;
+
+}
+.cards-container{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
